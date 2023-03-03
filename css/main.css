@@ -1,0 +1,12 @@
+:root {
+    --brand: #0000;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    box-sizing: border-box;
+}
